@@ -1,2 +1,2 @@
 # practice_code
-This code is for the practice purpose.
+These codes are written for the practice purposes.
